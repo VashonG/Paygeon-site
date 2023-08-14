@@ -1,0 +1,115 @@
+  .logo {
+  filter: drop-shadow(2px 2px 1px #fff);
+  left: 18px;
+  position: absolute;
+  top: 18px;
+  width: 150px;
+  height: 150px;
+}
+
+.logo path {
+  stroke: #aeabad;
+}
+
+.card {
+  background-color: #edeaeb;
+  border-radius: 1rem;
+  box-shadow: inset 0 0 0.5rem #eff0f6, 0 1px 0.15rem rgba(0, 0, 0, 0.5);
+  height: 250px;
+  position: relative;
+  width: 400px;
+}
+
+.content {
+  align-items: flex-end;
+  display: flex;
+  justify-content: space-between;
+  margin: 128px 40px 0 30px;
+}
+
+.name {
+  color: #aeabad;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 18px;
+  text-shadow: 1px 1px 1px #fff;
+}
+
+.chip {
+    align-items: center;
+    background: linear-gradient(45deg, #1a4f8a, #356b9f, #1a4f8a, #356b9f);
+    background-size: 200% 200%;
+    border-radius: 0.35rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3), inset 0 0 15px rgba(255, 255, 255, 0.5);
+    display: flex;
+    flex-wrap: wrap;
+    height: 40px;
+    justify-content: center;
+    padding: 2px 0;
+    width: 60px;
+    position: relative;
+    animation: shimmer 2s infinite linear;
+}
+
+@keyframes shimmer {
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+}
+
+.chip span {
+    width: 22px;
+    margin: 2px;
+    height: 7px;
+    display: block;
+    background: linear-gradient(to bottom, #E5E7E9, #BDC3C7); /* Platinum gradient */
+    box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.75), inset 0 0 4px rgba(0, 0, 0, 0.1);
+    border: solid 2px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+}
+
+
+/* // DEMO ONLY */
+.card {
+  left: 50%;
+  position: absolute;
+  top: 50%;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -100%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
+
+.shimmering {
+  background: linear-gradient(65deg, #edeaeb 25%, #ffffff 50%, #edeaeb 75%);
+  background-size: 200% 100%;
+  animation: shimmer 3s linear infinite;
+}
+
+.st0 {
+  fill-rule: evenodd;
+  clip-rule: evenodd;
+  fill: #aeabad;
+  stroke: #aeabad;
+}
+.st1 {
+  fill-rule: evenodd;
+  clip-rule: evenodd;
+  fill: #aeabad;
+  stroke: #aeabad;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-miterlimit: 3;
+}
+.st2 {
+  fill-rule: evenodd;
+  clip-rule: evenodd;
+  fill: none;
+  stroke: #aeabad;
+  stroke-width: 7;
+  stroke-linecap: round;
+  stroke-miterlimit: 3;
+}
