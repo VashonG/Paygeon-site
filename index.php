@@ -17,7 +17,7 @@
   <link href="https://assets.website-files.com/62851dcc1205d63c8b71f57f/62878f0082b19d08b21c86f9_webclip.png" rel="apple-touch-icon">
 </head>
 
-<body style="">
+<body >
 <?php include 'navbar.php'; ?>
   </div>
   <div class="section" contenteditable="false">
@@ -29,17 +29,17 @@
         <h1 class="h1-title s-margin" contenteditable="false">Truly Smart Card For Innovators</h1>
         <p class="l-paragraph l-margin" contenteditable="false">Seamless Payments and In-Depth Business Credit Monitoring at Your Fingertips.</p>
         <div class="buttons-wrap" contenteditable="false"><a href="https://webflow.com/templates/html/aastronaut-saas-website-template" class="primary-button w-inline-block" contenteditable="false">
-            <div class="button-text-wrap" style="" contenteditable="false">
-              <div class="button-text" style="" contenteditable="false">Signup for free</div>
-              <div class="button-text" style="" contenteditable="false">Start free trial</div>
+            <div class="button-text-wrap"  contenteditable="false">
+              <div class="button-text"  contenteditable="false">Signup for free</div>
+              <div class="button-text"  contenteditable="false">Start free trial</div>
             </div>
-            <div class="button-hover-effect" style="" contenteditable="false"></div>
+            <div class="button-hover-effect"  contenteditable="false"></div>
           </a><a href="#" class="primary-button w-inline-block" contenteditable="false">
-            <div class="button-text-wrap" style="" contenteditable="false">
-              <div class="button-text" style="" contenteditable="false">Learn more</div>
-              <div class="button-text" style="" contenteditable="false">Learn more</div>
+            <div class="button-text-wrap"  contenteditable="false">
+              <div class="button-text"  contenteditable="false">Learn more</div>
+              <div class="button-text"  contenteditable="false">Learn more</div>
             </div>
-            <div class="button-hover-effect" style="" contenteditable="false"></div>
+            <div class="button-hover-effect"  contenteditable="false"></div>
           </a></div>
       </div>
       <div class="relative xl-margin" contenteditable="false"><img src="images/Macbook Air (2022).png"></div>
@@ -132,17 +132,17 @@
             <h2 class="s-margin" contenteditable="false">Integrated with the tools you use</h2>
             <p class="l-paragraph l-margin" contenteditable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum.</p>
             <div class="buttons-wrap" contenteditable="false"><a href="https://webflow.com/templates/html/aastronaut-saas-website-template" class="primary-button w-inline-block" contenteditable="false">
-                <div class="button-text-wrap" style="" contenteditable="false">
-                  <div class="button-text" style="" contenteditable="false">Signup for free</div>
-                  <div class="button-text" style="" contenteditable="false">Start free trial</div>
+                <div class="button-text-wrap"  contenteditable="false">
+                  <div class="button-text"  contenteditable="false">Signup for free</div>
+                  <div class="button-text"  contenteditable="false">Start free trial</div>
                 </div>
-                <div class="button-hover-effect" style="" contenteditable="false"></div>
+                <div class="button-hover-effect"  contenteditable="false"></div>
               </a><a href="#" class="primary-button w-inline-block" contenteditable="false">
-                <div class="button-text-wrap" style="" contenteditable="false">
-                  <div class="button-text" style="" contenteditable="false">Learn more</div>
-                  <div class="button-text" style="" contenteditable="false">Learn more</div>
+                <div class="button-text-wrap"  contenteditable="false">
+                  <div class="button-text"  contenteditable="false">Learn more</div>
+                  <div class="button-text"  contenteditable="false">Learn more</div>
                 </div>
-                <div class="button-hover-effect" style="" contenteditable="false"></div>
+                <div class="button-hover-effect"  contenteditable="false"></div>
               </a></div>
           </div>
         </div>
@@ -276,11 +276,11 @@
         <div class="banner-heading text-center" contenteditable="false">&lt;45M</div>
         <p class="m-paragraph l-margin" contenteditable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla!</p>
         <div class="centered-and-vertical" contenteditable="false"><a href="https://webflow.com/templates/html/aastronaut-saas-website-template" class="primary-button xs-margin w-inline-block" contenteditable="false">
-            <div class="button-text-wrap" style="" contenteditable="false">
-              <div class="button-text" style="" contenteditable="false">Buy now</div>
-              <div class="button-text" style="" contenteditable="false">Start free trial</div>
+            <div class="button-text-wrap"  contenteditable="false">
+              <div class="button-text"  contenteditable="false">Buy now</div>
+              <div class="button-text"  contenteditable="false">Start free trial</div>
             </div>
-            <div class="button-hover-effect" style="" contenteditable="false"></div>
+            <div class="button-hover-effect"  contenteditable="false"></div>
           </a>
           <p class="xs-paragraph" contenteditable="false">It is completely free and takes 10 seconds.</p>
         </div>
@@ -296,3 +296,4 @@
 </body>
 
 </html>
+

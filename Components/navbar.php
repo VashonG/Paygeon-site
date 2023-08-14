@@ -4,7 +4,7 @@
           <div class="nav-logo" contenteditable="false">Paygeon</div>
         </a></div>
       <nav role="navigation" class="menu-right w-nav-menu" contenteditable="false"><a href="/" class="nav-link w-nav-link" contenteditable="false" style="border-style: none; border-color: rgb(34, 34, 34); border-width: 0px;">Home</a>
-        <div data-hover="true" data-delay="100" class="dropdown w-dropdown" contenteditable="false" style="">
+        <div data-hover="true" data-delay="100" class="dropdown w-dropdown" contenteditable="false" >
           <div class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0" contenteditable="false">
             <div class="chevron w-icon-dropdown-toggle" aria-hidden="true" contenteditable="false"></div>
             <div contenteditable="false" class="">Product</div>
@@ -21,7 +21,7 @@
             </div>
           </nav>
         </div>
-        <div data-hover="true" data-delay="0" class="dropdown w-dropdown" contenteditable="false" style="">
+        <div data-hover="true" data-delay="0" class="dropdown w-dropdown" contenteditable="false" >
           <div class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-1" aria-controls="w-dropdown-list-1" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0" contenteditable="false">
             <div class="chevron w-icon-dropdown-toggle" aria-hidden="true" contenteditable="false"></div>
             <div contenteditable="false" class="">Company</div>
@@ -38,16 +38,17 @@
             </div>
           </nav>
         </div><a href="https://webflow.com/templates/html/aastronaut-saas-website-template" class="primary-button nav w-inline-block" contenteditable="false">
-          <div class="button-text-wrap" style="" contenteditable="false">
-            <div class="button-text" style="" contenteditable="false">Signup for free</div>
-            <div class="button-text" style="" contenteditable="false">Buy now</div>
+          <div class="button-text-wrap"  contenteditable="false">
+            <div class="button-text"  contenteditable="false">Signup for free</div>
+            <div class="button-text"  contenteditable="false">Buy now</div>
           </div>
-          <div class="button-hover-effect" style="" contenteditable="false"></div>
+          <div class="button-hover-effect"  contenteditable="false"></div>
         </a>
       </nav>
-      <div class="menu-button w-nav-button" style="-webkit-user-select: text;" aria-label="menu" role="button" tabindex="0" aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false">
+      <div class="menu-button w-nav-button" aria-label="menu" role="button" tabindex="0" aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false">
         <div class="w-icon-nav-menu"></div>
       </div>
     </div>
     <div class="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-0"></div>
   </div>
+
